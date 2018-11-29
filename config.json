@@ -1,0 +1,5 @@
+{
+  "legacy-api": "http://api.ftb.world",
+  "api": "https://api.ftb.world",
+  "schematics-api": "https://direct.ftb.world:1337"
+}
